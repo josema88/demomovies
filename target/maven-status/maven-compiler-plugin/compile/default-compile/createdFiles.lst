@@ -1,0 +1,4 @@
+com/jmoc/demomovies/rest/RestApplication.class
+com/jmoc/demomovies/rest/MovieEndpoint.class
+com/jmoc/demomovies/controller/MovieDao.class
+com/jmoc/demomovies/model/Movie.class
